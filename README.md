@@ -1,4 +1,4 @@
-# Amazon_FineFood_Review_Analysis
+# Amazon FineFood Review Analysis
 
 **This was a part of my personal project where I worked on Building A NLP Model to Classify the reviews from Amazon**
 
